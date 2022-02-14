@@ -4,7 +4,6 @@
   "description": "Mercado Liebre 2022 Alejandro Jabo",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
