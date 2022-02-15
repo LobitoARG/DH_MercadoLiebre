@@ -632,6 +632,11 @@ main section article:hover i{
         
     }
 
+    .form-log-in h3{
+        margin: 10px 0;
+        text-align: center;
+    }
+
 }
 
 @media(min-width: 640px)
@@ -657,7 +662,8 @@ main section article:hover i{
     }
 
     .form-log-in{
-        max-width: 60%;
+        max-width: 50%;
+        padding: 150px 0;
     }
     .form-register{
         max-width: 50%;
